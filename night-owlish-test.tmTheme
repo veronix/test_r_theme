@@ -6,7 +6,7 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Night Owl</string>
+	<string>Night Owl (TEST)</string>
 	<key>semanticClass</key>
 	<string>theme.dark</string>
 	<key>gutterSettings</key>
