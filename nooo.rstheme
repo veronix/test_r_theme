@@ -18,7 +18,7 @@
 }
 
 .ace_cursor {
-  color: #F8F8F0;
+  color: #000000;
 }
 
 .ace_marker-layer .ace_selection {
@@ -62,7 +62,7 @@
 
 
 .ace_keyword {
-  color: #E63946;
+  color: #000000;
 
 }
 
@@ -137,17 +137,17 @@
 }
 
 .ace_string {
-  color: #A9DADC;
+  color: #000000;
 
 }
 
 .ace_comment {
-  color: #75715E;
+  color: #FFFFFF;
 
 }
 
 .ace_variable {
-  color: #1B998B;
+  color: #FFFFFF;
 
 }
 
