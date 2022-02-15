@@ -52,7 +52,7 @@
 }
 
 .ace_fold {
-  background-color: #1B998B;
+  background-color: #1E2928;
   border-color: #F8F8F2;
 }
 
@@ -62,17 +62,17 @@
 
 
 .ace_keyword {
-  color: #E63946;
+  color: #332C2C;
 
 }
 
 .ace_keyword.ace_operator {
-  color: #E63946;
+  color: #332C2C;
 
 }
 
 .ace_constant.ace_language {
-  color: #AE81FF;
+  color: #3A2E4F;
 
 }
 
@@ -82,45 +82,45 @@
 }
 
 .ace_constant.ace_character {
-  color: #AE81FF;
+  color: #585163;
 
 }
 
 .ace_constant.ace_other {
-  color: #AE81FF;
+  color: #585163;
 
 }
 
 .ace_support.ace_function {
-  color: #66D9EF;
+  color: #6F55A3;
 
 }
 
 .ace_support.ace_constant {
-  color: #66D9EF;
+  color: #0F5866;
 
 }
 
 .ace_support.ace_class {
   font-style: italic;
-  color: #66D9EF;
+  color: #193E45;
 
 }
 
 .ace_support.ace_type {
   font-style: italic;
-  color: #66D9EF;
+  color: #193E45;
 
 }
 
 .ace_storage {
-  color: #F92672;
+  color: #473D40;
 
 }
 
 .ace_storage.ace_type {
   font-style: italic;
-  color: #66D9EF;
+  color: #1E2526;
 
 }
 
@@ -137,7 +137,7 @@
 }
 
 .ace_string {
-  color: #A9DADC;
+  color: #465859;
 
 }
 
@@ -147,7 +147,7 @@
 }
 
 .ace_variable {
-  color: #1B998B;
+  color: #1E2928;
 
 }
 
@@ -158,12 +158,12 @@
 }
 
 .ace_entity.ace_other.ace_attribute-name {
-  color: #A6E22E;
+  color: #515943;
 
 }
 
 .ace_entity.ace_name.ace_function {
-  color: #1B998B;
+  color: #1E2928;
 
 }
 
@@ -172,7 +172,7 @@
 
 }
 .nocolor.ace_editor .ace_line span {
-  color: #e63946 !important;
+  color: #332c2c !important;
 }
 .ace_bracket {
   margin: 0 !important;
