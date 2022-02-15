@@ -758,7 +758,6 @@
 .rstudio-themes-flat.editor_dark.ace_editor_theme a {
    color: #FFF !important;
 }
-
 .ace_layer {
    z-index: 3;
 }
