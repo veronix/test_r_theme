@@ -184,7 +184,7 @@
 }
 
 .ace_entity.ace_name.ace_function {
-  color: #82AAFF;
+  color: #e63946;
 
 }
 
@@ -209,7 +209,7 @@
   background-color: #fb6f1c
 }
 .ace_comment-highlight {
-  color: #4D4333;
+  color: #f1faee;
   background-color: #D1B78A;
 }
 .ace_marker-layer .ace_active_debug_line {
@@ -226,7 +226,7 @@
   background-color: #2C3E4F;
 }
 .terminal {
-  background-color: #011627;
+  background-color: #a8dadc;
   color: #d6deeb;
   font-feature-settings: "liga" 0;
   position: relative;
